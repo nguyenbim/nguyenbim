@@ -8,7 +8,7 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 
 ![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenbim&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR-DIGITAL-LAB-SIM/">
+<a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR&theme=radical" />
 </a>    
@@ -17,7 +17,7 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=Colorization-and-Style-Transfer&theme=merko" />
 </a>
 
-<a href="https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning">
+<a href="https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=Depth-Estimation-For-Colonoscopy&theme=gruvbox" />
 </a>    
