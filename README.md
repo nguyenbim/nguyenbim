@@ -2,7 +2,7 @@
 My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP, Computer Vision and Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khang-nguy%E1%BB%85n-955513165/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenbim/) [![Email](https://logowik.com/content/uploads/images/513_email.jpg) Email](khangnguyenmanh10031208@gmail.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khang-nguy%E1%BB%85n-955513165/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenbim/)
 
 
 
