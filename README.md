@@ -22,3 +22,8 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=Depth-Estimation-For-Colonoscopy&theme=gruvbox" />
 </a>    
 
+<a href="https://github.com/khoapham2801/WebProgrammingIT4552E/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoapham2801&repo=WebProgrammingIT4552E&theme=dark" />
+</a>
+
