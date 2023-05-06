@@ -27,30 +27,31 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR&theme=radical" />
 </a> 
 
+<a href="https://github.com/nguyenbim/InceptionTime">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=InceptionTime&theme=cobalt" />
+</a>
+
 </br>
 </br>
 
+<a href="https://github.com/nguyenbim/dl-4-tsc/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=dl-4-tsc&theme=synthwave" />
+</a> 
 <a href="https://github.com/khoapham2801/WebProgrammingIT4552E/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khoapham2801&repo=WebProgrammingIT4552E&theme=dark" />
 </a>
+
+</br>
+</br>
 
 <a href="https://github.com//monstertau/money-thrower/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=monstertau&repo=money-thrower&theme=onedark" />
 </a> 
 
-</br>
-</br>
 
-<a href="https://github.com/nguyenbim/InceptionTime">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=InceptionTime&theme=cobalt" />
-</a>
-
-<a href="https://github.com/nguyenbim/dl-4-tsc/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=dl-4-tsc&theme=synthwave" />
-</a> 
 
 
