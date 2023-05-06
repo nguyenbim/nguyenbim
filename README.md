@@ -10,16 +10,16 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 
 <a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR-DIGITAL-LAB-SIM/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR-DIGITAL-LAB-SIM&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/nguyenbim/Colorization-and-Style-Transfer/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=Colorization-and-Style-Transfer&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=Depth-Estimation-For-Colonoscopy&theme=gruvbox" />
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
