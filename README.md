@@ -40,3 +40,12 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=monstertau&repo=money-thrower&theme=onedark" />
 </a> 
 
+</br>
+</br>
+
+<a href="[https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/](https://github.com/nguyenbim/InceptionTime)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=InceptionTime&theme=cobalt" />
+</a>
+
+
