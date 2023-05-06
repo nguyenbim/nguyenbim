@@ -8,9 +8,9 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 
 ![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenbim&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR-DIGITAL-LAB-SIM/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR-DIGITAL-LAB-SIM&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
