@@ -23,7 +23,7 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 </br>
 <a href="https://github.com/nguyenbim/yolov8_postprocess_for_cut_model/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=yolov8_postprocess_for_cut_model&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=yolov8_postprocess_for_cut_model&theme=onedark" />
 </a>
 </br>
 </br>
