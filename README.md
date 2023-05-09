@@ -25,17 +25,11 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=yolov8_postprocess_for_cut_model&theme=onedark" />
 </a>
-</br>
-</br>
-<a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR&theme=radical" />
-</a> 
-
 <a href="https://github.com/nguyenbim/InceptionTime">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=InceptionTime&theme=cobalt" />
 </a>
+
 
 </br>
 </br>
@@ -52,11 +46,16 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 </br>
 </br>
 
+<a href="https://github.com/nguyenbim/MIPS-SIMPLE-CALCULATOR/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenbim&repo=MIPS-SIMPLE-CALCULATOR&theme=radical" />
+</a> 
+</br>
+</br>
 <a href="https://github.com//monstertau/money-thrower/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=monstertau&repo=money-thrower&theme=onedark" />
 </a> 
-
 
 
 
