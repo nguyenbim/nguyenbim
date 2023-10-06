@@ -6,7 +6,7 @@ My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in 
 
 
 
-![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenbim&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<!--![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenbim&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)-->
 
    
 <a href="https://github.com/nguyenbim/Colorization-and-Style-Transfer/">
