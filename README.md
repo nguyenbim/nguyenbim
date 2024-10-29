@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Nguyen Manh Khang. I am an Engineer in Computer Science, majoring in Artificial Intelligence. I am interested in the following topics: Computer Vision, AI integration and AI researching.<br>
 ## 📫 How to reach me: 
-[LinkedIn](www.linkedin.com/in/khang1003) 
+[LinkedIn](https://www.linkedin.com/in/khang1003/) 
 •
 [GitHub](https://github.com/nguyenbim/)
 
